@@ -17,3 +17,8 @@
   background-color: white;
   border-radius: 5px;
 }
+
+.modal-btn {
+  width: 160px;
+  margin-right: 5px;
+}
